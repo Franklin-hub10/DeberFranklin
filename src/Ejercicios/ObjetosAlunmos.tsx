@@ -20,7 +20,7 @@ export const ObjetosAlumnos = () => {
         <button className="btn btn-primary"
         onClick={() =>cambiarContador(5)}
         >
-        +5
+        +
           </button>
     </div>
    
